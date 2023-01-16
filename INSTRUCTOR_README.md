@@ -1,0 +1,2 @@
+Due to IMGUI integration which provides GUI elements to my project, ONLY MacOS is supported for compilation! 
+I used lab 10 as starter code, and external libraries include the header-only PerlinNoise library by Git user Reputeless, and IMGUI.
